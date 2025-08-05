@@ -2,11 +2,11 @@
 
 These are tips and information showing how to use the Azure SDK for Python in real-world scenarios.
 
-## 📚 Contents
+## Contents
 
-| Part | Title                             | Description                            |
-|------|-----------------------------------|----------------------------------------|
-| 00   | Azure Account Setup               | How to create a free Azure account     |
+| Part | Title                             | Description                                         |
+|------|-----------------------------------|-----------------------------------------------------|
+| 00   | Azure Authentication in Python    | Azure Authentication in Python with sample code     |
 
 
 ## Prerequisites
